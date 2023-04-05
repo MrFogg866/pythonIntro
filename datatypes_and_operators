@@ -1,0 +1,50 @@
+# Numbers, Strings, Booleans
+
+# Numbers = intergers, floats, longs(depreciated), doubles, complex
+# strings = any text "" or ''
+# boolean = True or false
+# a float is a decimal as the decimal can float
+
+# operators
+
+# arithmetic and comparison
+
+# arithmetic
+# + add two variables together
+# * multiplies two variables together
+# / divides two variables
+# % remainder of a division of the left variable by the right variable
+
+# comparison operators
+# > true if the left variable is greater than the right variable
+# < other way round
+# == equal to
+# != true if left variable is greater than or equal to the right
+# >= true if left variable is greater than or equal to the right
+# <= true if left variable is less than or equal to the right
+
+# numeric types
+
+# ints
+
+a = 24
+b = 16
+
+print(a + b)
+print(a - b)
+print(a > b)
+
+# floats
+
+
+
+# input two numbers you want to add
+
+#strings
+
+single_quotes = 'loook! single quotes'
+double_quotes = "look! double quotes"
+
+print(single_quotes)
+print(double_quotes)
+

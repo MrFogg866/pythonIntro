@@ -1,0 +1,6 @@
+
+A = "alongword"
+
+
+
+print("A")
